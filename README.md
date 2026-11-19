@@ -1,0 +1,2 @@
+# smart_canteen_billing_system
+mini_hackathon_lab1
