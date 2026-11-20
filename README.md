@@ -1,7 +1,16 @@
 # Smart Canteen Billing System
 
 **Mini Hackathon -- C Programming Lab**\
-**Team members:** Jai Singh(590041899), Anushka Bajpai(590039934), Akshit ojha
+**Team members:**
+Anushka Bajpai
+SAP ID: (590039934)
+Batch: 52
+Jai Singh 
+SAP ID: (590041899)
+Batch: 52 
+Akshit ojha
+SAP ID: 5900
+Batch: 52
 
 **Language:** C (C99)
 
