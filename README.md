@@ -1,7 +1,7 @@
 # Smart Canteen Billing System
 
 **Mini Hackathon -- C Programming Lab**\
-**Team members:** Jai Singh, Anushka Bajpai(590039934), Akshit ojha
+**Team members:** Jai Singh(590041899), Anushka Bajpai(590039934), Akshit ojha
 
 **Language:** C (C99)
 
